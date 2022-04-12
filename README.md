@@ -2,14 +2,17 @@
 
 O projeto teve como intuito o desenvolvimento de um gerador de relatórios que recebe arquivos de entrada (`CSV`, `JSON` e `XML`) referente a dados de um estoque e gera um relatório. Foram praticados os conceitos de programação orientada a objetos. 
 
-## Tecnologias Usadas
+## Tecnologia Usada
 - Python
 
 ## Rodando o Projeto Localmente
 
 1° `git clone https://github.com/tryber/sd-010-a-inventory-report.git` - Clone o repositório para sua máquina <br />
+
 2° `cd sd-010-a-inventory-report` - Entre na pasta do repositório clonado <br />
+
 3° `python3 -m venv .venv && source .venv/bin/activate` - Crie e ative o ambiente virtual para o projeto <br />
+
 4° `python3 -m pip install -r dev-requirements.txt` - Instale as dependências <br /> 
  
 
