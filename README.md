@@ -7,9 +7,9 @@ O projeto teve como intuito o desenvolvimento de um gerador de relatórios que r
 
 ## Rodando o Projeto Localmente
 
-1° `git clone https://github.com/tryber/sd-010-a-inventory-report.git` - Clone o repositório para sua máquina <br />
+1° `git clone https://github.com/lucasam1992/project-inventory-report.git` - Clone o repositório para sua máquina <br />
 
-2° `cd sd-010-a-inventory-report` - Entre na pasta do repositório clonado <br />
+2° `cd project-inventory-report` - Entre na pasta do repositório clonado <br />
 
 3° `python3 -m venv .venv && source .venv/bin/activate` - Crie e ative o ambiente virtual para o projeto <br />
 
